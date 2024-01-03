@@ -1,0 +1,5 @@
+*.png
+*.csv
+*.xlsx
+/HKO_file/*
+*.pyc
